@@ -5,7 +5,7 @@ from datetime import datetime
 
 # List of patients for our initial table data
 patients = [
-  Patient("Nimish", "Narang", datetime(1990, 1, 6), 185, 90.3, True),
+  Patient("Austin", "Melnyk", datetime(1990, 1, 6), 185, 90.3, True),
   Patient("Zenva", "Academy", datetime(2000, 5, 29), 200, 100.5, False),
   Patient("Foo", "Bar", datetime(1965, 10, 4), 174, 83.6, False)
 ]
